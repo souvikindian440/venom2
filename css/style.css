@@ -1,0 +1,185 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+.topcontainer{
+  height: 558px;
+  background-color: #44c767;
+}
+.max{
+  color: #2c786c;
+  font-family: 'Comforter', cursive;
+}
+.yo{
+  color: #2c786c;
+  font-family: 'Comforter', cursive;
+}
+
+
+.topcloud{
+  margin: 0px;
+  left: 300px;
+  position: absolute;
+}
+h1{
+  margin: 100px;
+  left: 400px;
+  position: absolute;
+}
+h2{
+  margin: 150px;
+  left: 450px;
+  position: absolute;
+  color: #2c786c;
+}
+.topcloud{
+  margin: 0px;
+  left: 800px;
+  position: absolute;
+}
+.bottomcloud{
+  margin: 100px;
+  right: 800px;
+  position: absolute;
+}
+.gg{
+  margin: 200px;
+  left: 130px;
+  position: absolute;
+}
+  .profile-img{
+  margin-top: 30px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+.hello{
+  margin-top: 20px;
+
+}
+.intro{
+  margin-top: 100px;
+  width: 50% ;
+  margin-left: 26%;
+
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 10px;
+  border-color: gray;
+  margin: 100px auto;
+}
+.my-skills{
+  margin-top: 0px;
+  margin-left: 120px;
+  text-align: center;
+  position: absolute;
+  color: #2c786c;
+}
+.SKILL1{
+  margin-top: 100px;
+  margin-left: 520px;
+  width: 200px;
+
+}
+.h3{
+  margin-top: -225px;
+  margin-right: 278px;
+  width: 328px;
+  color: #11999E;
+}
+.ss{
+ margin-top: 0px;
+ width: 76%;
+ margin-left: -50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.skills2{
+  width: 190px;
+  height: 180px;
+  margin-top: 100px;
+  margin-left: 605px;
+}
+.zero{
+  margin-top: -195px;
+  margin-left: 415px;
+  width: 130px;
+}
+.p{
+  margin-bottom: 10px;
+  width: 31%;
+  margin-left: 260px;
+}
+.kk{
+  width: 250px;
+  margin-left: 300px;
+  margin-top: -215px;
+  color: #11999E;
+}
+.man{
+ margin-left: 300px;
+ width: 295px;
+
+}
+.one{
+  margin-top: -80px;
+  left: 395px;
+  text-align: center;
+}
+.testbotton{
+  margin-top: 5px;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  right: 550px;
+  width: 156px;
+  border-radius: 22%;
+  position: absolute;
+  background-color: #44c767;
+  text-decoration: none;
+  font-family: arial;
+  color: #fff;
+  border-top-left-radius: 28px;
+  border-top-right-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border-bottom-right-radius: 28px;
+}
+.contact-message{
+  margin-top: 65px;
+  text-align: center;
+}
+.BOTTOM-container{
+  background-color: #66BFBF;
+  margin-top:  100px;
+  width: 100%;
+  padding: 5% 0 15px;
+}
+.footer-link{
+  font-family: 'Comforter', cursive;
+  margin-right: 30px;
+  margin-left: 50px;
+  padding-top: 25% 0 30%;
+  font-size: 40px;
+  text-decoration: none;
+}
+.copyrights{
+  color: #ffffff;
+}
+.footer-link:hover{
+  color: #ffffff;
+}
+.testbotton:hover{
+  background-color: purple;
+}
+.zero{
+  color: #11999E;
+}
